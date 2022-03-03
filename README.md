@@ -1,2 +1,3 @@
 # SIRD-Modeling
-Class Project: SIRD Modeling of COVID-19 Patients
+Class Project: SIRD Modeling of COVID-19 cases in St. Louis 
+
